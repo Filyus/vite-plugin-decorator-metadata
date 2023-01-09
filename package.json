@@ -1,0 +1,8 @@
+{
+  "name": "vite-plugin-decorator-metadata",
+  "version": "1.0.0",
+  "description": "Plugin for Vite to emit decorator metadata.",
+  "main": "index.js",
+  "author": "Filyus",
+  "license": "ISC"
+}
